@@ -20,6 +20,8 @@ nmp i
 ```
 4. Выполнить команду ниже для запуска проекта
 ```
-npm run start
+npm start
 ```
 5. Дождаться открытия сайта в окне браузера
+
+Альтернативный способ ознакомления с проектом - [перейти по ссылке на Github Pages](https://nikolaigavrilov.github.io/react-clothes-shop/)
